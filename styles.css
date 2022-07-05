@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    display: flex;
+    min-height: 100vh;
+}
+
+.left{
+    width: 35vw;
+    background-image: url(./assets/bg-img.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: blue;
+
+}
+
+
+.right{
+    width: 65vw;
+    background-color: white;
+
+}
+
+
+
+/* .bg-img{
+    object-fit: contain;
+    max-height: 180vh;
+    max-width: 180vh;
+} */
