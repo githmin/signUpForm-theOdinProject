@@ -1,2 +1,2 @@
 # signUpForm-theOdinProject
-This is a basic sign-u form
+This is a basic sign-up form
